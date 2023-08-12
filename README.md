@@ -1,4 +1,4 @@
-# sekia-bilbioteca
+# Pojecto Análisis de Género en publicaciones cientificas Colombianas
 
 Introducción del proyecto
 
